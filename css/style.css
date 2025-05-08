@@ -1,0 +1,44 @@
+/* Custom styles for Mini Amazon Clone */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    padding: 60px 20px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  
+  h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #343a40;
+  }
+  
+  form label {
+    font-weight: 500;
+  }
+  
+  form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .btn-primary {
+    background-color: #ff9900;
+    border-color: #ff9900;
+  }
+  
+  .btn-primary:hover {
+    background-color: #e68a00;
+    border-color: #e68a00;
+  }
+  
